@@ -1,0 +1,72 @@
+header{
+    text-align: center;
+    border:solid 1px rebeccapurple;
+    width: 200px;
+    margin:0 auto;
+    background-color: chocolate;
+}
+h1{
+    font-style: italic;
+    color: darkolivegreen;
+}
+.new-todo{
+    width: 196px;
+    border: 0px;
+    position: relative;
+    bottom: -1px;
+    font-size: 0.8em;
+}
+.main{
+    width:192px;
+    margin:0 auto;
+    /* border: solid 1px red; */
+    position: relative;
+    top: -15px;
+}
+.todo{
+    list-style: none;
+    /* border:solid 1px red; */
+    width: 190px;
+    position: relative;
+    left: -40px;
+   
+}
+.destroy{
+    float: right;
+
+}
+
+input.clear-completed{
+    /* font-size: 7px; */
+    /* margin-left:10px ; */
+     /* width: 10px; */
+     float: right;
+     padding:0px;
+    height: 19px; 
+    
+    border: 0px;
+}
+.footer{
+    height:5px ;
+    width:192px;
+    margin:0 auto;
+    /* border: solid 1px red; */
+    position: relative;
+    top: -15px;
+    font-size: 0.3px;
+}
+.footer button{
+    float:right;
+    /* padding:px; */
+    /* font-size: 1px; */
+    width: 10px;
+    height: 10px;
+}
+img{
+  height: 50px;    
+  width: 50px;
+  margin: 0 auto;
+}
+
+
+ 
